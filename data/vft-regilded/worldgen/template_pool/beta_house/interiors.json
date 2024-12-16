@@ -1,0 +1,53 @@
+{
+    "name": "vft-regilded:beta_house/interiors",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/interior/roses",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/interior/classic",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/interior/stone",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/interior/dandilion",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/interior/last_player",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/interior/nostalgia",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    }]
+}

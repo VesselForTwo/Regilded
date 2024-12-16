@@ -1,0 +1,16 @@
+{
+    "structures": [
+      {
+        "structure": "vft-regilded:beta_house",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 703825344,
+      "frequency": 0.5,
+      "spread_type": "triangular",
+      "spacing": 35,
+      "separation": 8
+    }
+  }

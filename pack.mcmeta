@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"pack_format": 61,
+		"description": "a datapack that aims to flesh out the world and progression in ways that feel like an extension of vanilla minecraft"
+	},
+	"filter": {
+		"block": [{
+			"namespace": "minecraft",
+			"path": "recipe/netherite_scrap.json"
+		}]
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Reimbursed",
+        "description": "a datapack that aims to flesh out the world and progression in ways that feel like an extension of vanilla minecraft",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'VesselForTwo'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

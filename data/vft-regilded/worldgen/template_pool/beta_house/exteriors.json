@@ -1,0 +1,61 @@
+{
+    "name": "vft-regilded:beta_house/exteriors",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/exterior/dungeon",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/exterior/log_frame",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/exterior/raccooned",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/exterior/wooden_box",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/exterior/old_village",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/exterior/bricked",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "vft-regilded:beta_house/exterior/hut",
+            "processors": "minecraft:empty",
+            "projection": "rigid"
+        }
+    }]
+}
