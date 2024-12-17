@@ -13,7 +13,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "vft-regilded:chainmail_helmet"
+          "recipe": "vft-regilded:equipment/chainmail_helmet"
         },
         "trigger": "minecraft:recipe_unlocked"
       }
@@ -26,7 +26,7 @@
     ],
     "rewards": {
       "recipes": [
-        "vft-regilded:chainmail_helmet"
+        "vft-regilded:equipment/chainmail_helmet"
       ]
     }
   }
