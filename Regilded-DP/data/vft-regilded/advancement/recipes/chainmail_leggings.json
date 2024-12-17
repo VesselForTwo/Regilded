@@ -13,7 +13,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "vft-regilded:equipment/chainmail_leggings"
+          "recipe": "vft-regilded:chainmail_leggings"
         },
         "trigger": "minecraft:recipe_unlocked"
       }
@@ -26,7 +26,7 @@
     ],
     "rewards": {
       "recipes": [
-        "vft-regilded:equipment/chainmail_leggings"
+        "vft-regilded:chainmail_leggings"
       ]
     }
   }

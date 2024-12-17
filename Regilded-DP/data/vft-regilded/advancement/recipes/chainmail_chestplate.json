@@ -13,7 +13,7 @@
       },
       "has_the_recipe": {
         "conditions": {
-          "recipe": "vft-regilded:equipment/chainmail_chestplate"
+          "recipe": "vft-regilded:chainmail_chestplate"
         },
         "trigger": "minecraft:recipe_unlocked"
       }
@@ -26,7 +26,7 @@
     ],
     "rewards": {
       "recipes": [
-        "vft-regilded:equipment/chainmail_chestplate"
+        "vft-regilded:chainmail_chestplate"
       ]
     }
   }

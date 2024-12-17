@@ -1,0 +1,1 @@
+give @s music_disc_13[item_model="minecraft:music_disc_creator_music_box",jukebox_playable={song:"creator_music_box"}] 1
